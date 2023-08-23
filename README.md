@@ -4,4 +4,4 @@
 - 💞️ I love collaborating over code with new people and enjoy working in teams be it in projects or hackathons
 - 📫 How to reach me jyothisharma522@gmail.com
 - Tech Stack :
-Java JavaScript Git HTML5 CSS MySQL
+Java,Advanced Java,CSS,HTML,JavaScript, Hibernate, JSP,Servlet, Spring, MySQL
